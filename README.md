@@ -5,13 +5,13 @@ ProPresenter Library for the book of Psalms. Parallel - English Standard Version
 We have attempted to contact ProPresenter with this issue for some time. Unfortunately, they were unable to provide a fix. This library aims at fixing these offsets.
 
 ## How to Use
-1. Clone the repo to Macintosh HD⁩ ▸ ⁨Users⁩ ▸ ⁨<user>⁩ ▸ ⁨Documents⁩ ▸ ⁨ProPresenter⁩ ▸ Documents. The library will appear the next time you open ProPresenter.
-2. Stay up to date. Offsets may be updated with more accurate information
+1. Clone the repo to Macintosh HD⁩ ▸ ⁨Users⁩ ▸ ⁨&lt;user&gt;⁩ ▸ ⁨Documents⁩ ▸ ⁨ProPresenter⁩ ▸ Documents. The library will appear the next time you open ProPresenter.
+2. Stay up to date. Offsets may be updated with more accurate information.
 
 ## Progress
 
 - [x] Psalm 1-10
-- [x] Psalm 11-20
+- [ ] Psalm 11-20
 - [ ] Psalm 21-30
 - [ ] Psalm 31-40
 - [ ] Psalm 41-50
