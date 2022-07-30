@@ -4,16 +4,18 @@ ProPresenter Library for the book of Psalms. Parallel - English Standard Version
 ### Why?
 We have attempted to contact ProPresenter with this issue for some time. Unfortunately, they were unable to provide a fix. This library aims at fixing these offsets.
 
+Bible verses remain the same. The only thing that is changed from the standard ProPresenter Bible setup are the offsets.
+
 ## How to Use
 1. Clone the repo to Macintosh HD⁩ ▸ ⁨Users⁩ ▸ ⁨&lt;user&gt;⁩ ▸ ⁨Documents⁩ ▸ ⁨ProPresenter⁩ ▸ Documents. The library will appear the next time you open ProPresenter.
-2. Apply a bible theme that you use with the standard Bible.
+2. Apply a theme that you use with the standard Bible.
 3. Stay up to date. Offsets may be updated with more accurate information.
 
 ## Progress
 
 - [x] Psalm 1-10
 - [x] Psalm 11-20
-- [ ] Psalm 21-30
+- [x] Psalm 21-30
 - [ ] Psalm 31-40
 - [ ] Psalm 41-50
 - [ ] Psalm 51-60
