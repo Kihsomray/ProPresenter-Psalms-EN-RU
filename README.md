@@ -19,7 +19,7 @@ Bible verses remain the same. The only thing that is changed from the standard P
 - [x] Psalm 31-40
 - [x] Psalm 41-50
 - [x] Psalm 51-60
-- [ ] Psalm 61-70
+- [x] Psalm 61-70
 - [ ] Psalm 71-80
 - [ ] Psalm 81-90
 - [ ] Psalm 91-100
