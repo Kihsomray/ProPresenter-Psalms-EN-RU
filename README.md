@@ -22,7 +22,7 @@ Bible verses remain the same. The only thing that is changed from the standard P
 - [x] Psalm 61-70
 - [x] Psalm 71-80
 - [x] Psalm 81-90
-- [ ] Psalm 91-100
+- [x] Psalm 91-100
 - [ ] Psalm 101-110
 - [ ] Psalm 111-120
 - [ ] Psalm 121-130
