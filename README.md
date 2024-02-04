@@ -11,10 +11,11 @@ We have attempted to contact ProPresenter with this issue for some time. Unfortu
 Bible verses remain the same. The only thing that is changed from the standard ProPresenter Bible setup are the offsets.
 
 ## How to Use
-1. Download the latest release.
+1. Download the [latest release](https://github.com/Kihsomray/Psalm-Offsets-EN-RU/releases).
 2. Un-zip the content.
 3. Move the Psalms folder to your Library folder. By default:
-    - **On MacOS:** Macintosh HD⁩ ▸ ⁨Users⁩ ▸ ⁨&lt;user&gt;⁩ ▸ ⁨Documents⁩ ▸ ⁨ProPresenter⁩ ▸ Documents.
+    - **MacOS:** Macintosh HD⁩ ▸ ⁨Users⁩ ▸ ⁨&lt;user&gt;⁩ ▸ ⁨Documents⁩ ▸ ⁨ProPresenter⁩ ▸ Libraries.
+
 4. Open ProPresenter. Ensure the library has successfully been added.
 <img src="https://i.imgur.com/j8ipQdo.png"></img>
 5. Apply a **Theme** that uses the format below.
