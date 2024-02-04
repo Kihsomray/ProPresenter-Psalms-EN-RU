@@ -23,9 +23,9 @@ Bible verses remain the same. The only thing that is changed from the standard P
 - [x] Psalm 71-80
 - [x] Psalm 81-90
 - [x] Psalm 91-100
-- [ ] Psalm 101-110
-- [ ] Psalm 111-120
-- [ ] Psalm 121-130
-- [ ] Psalm 131-140
-- [ ] Psalm 141-150
+- [x] Psalm 101-110
+- [x] Psalm 111-120
+- [x] Psalm 121-130
+- [x] Psalm 131-140
+- [x] Psalm 141-150
 
